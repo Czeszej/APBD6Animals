@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\services\\animalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\services\\animalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\services\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\services\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\services\\ianimalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\services\\ianimalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\repositories\\ianimalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\repositories\\ianimalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\repositories\\animalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\repositories\\animalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\model\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\model\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\repositories\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\repositories\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\repositories\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\repositories\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\services\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\services\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoapphorizontal\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA3371-B96B-4A29-AE3E-D0EF06C5271C}|GakkoAppHorizontal\\GakkoAppHorizontal.csproj|solutionrelative:gakkoapphorizontal\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\students\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\students\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\students\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\students\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\animals\\animalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\animals\\animalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\students\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\students\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\animals\\animalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\animals\\animalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\animals\\ianimalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\animals\\ianimalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\animals\\ianimalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\animals\\ianimalsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\students\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\students\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\students\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\students\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|c:\\users\\gigaheniekv2\\desktop\\apbd5\\gakkoapp\\gakkoappvertical\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B32F07D-C665-4C4E-BD90-CB22A62D7FE8}|GakkoAppVertical\\GakkoAppVertical.csproj|solutionrelative:gakkoappvertical\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimalsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Repositories\\AnimalsRepository.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Repositories\\AnimalsRepository.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Repositories\\AnimalsRepository.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Repositories\\AnimalsRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:16:13.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Controllers\\AnimalsController.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Controllers\\AnimalsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:39:28.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAnimalsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Repositories\\IAnimalsRepository.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Repositories\\IAnimalsRepository.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Repositories\\IAnimalsRepository.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Repositories\\IAnimalsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:16:06.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Model\\Animal.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Model\\Animal.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Model\\Animal.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Model\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:15:27.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimalsService.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Services\\IAnimalsService.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Services\\IAnimalsService.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Services\\IAnimalsService.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Services\\IAnimalsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:17:06.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Services\\StudentsService.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Services\\StudentsService.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Services\\StudentsService.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Services\\StudentsService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:16:54.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalsService.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Services\\AnimalsService.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Services\\AnimalsService.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Services\\AnimalsService.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Services\\AnimalsService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:17:39.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\appsettings.json",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\appsettings.json",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\appsettings.json",
+              "RelativeToolTip": "GakkoAppHorizontal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T18:43:26.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Program.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Program.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Program.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:43:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:37:04.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Repositories\\StudentsRepository.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Repositories\\StudentsRepository.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Repositories\\StudentsRepository.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Repositories\\StudentsRepository.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAD4v0wAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:13:02.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Repositories\\IStudentsRepository.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Repositories\\IStudentsRepository.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Repositories\\IStudentsRepository.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Repositories\\IStudentsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:13:10.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Services\\IStudentsService.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Services\\IStudentsService.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Services\\IStudentsService.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Services\\IStudentsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:17:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "GakkoAppHorizontal\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppHorizontal\\Model\\Student.cs",
+              "RelativeToolTip": "GakkoAppHorizontal\\Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:14:37.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IStudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\IStudentsService.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Students\\IStudentsService.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\IStudentsService.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Students\\IStudentsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:47:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\Configuration.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Students\\Configuration.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\Configuration.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Students\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:04:59.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\StudentsRepository.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Students\\StudentsRepository.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\StudentsRepository.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Students\\StudentsRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:38:06.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnimalsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\AnimalsRepository.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Animals\\AnimalsRepository.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\AnimalsRepository.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Animals\\AnimalsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:03:04.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\appsettings.json",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\appsettings.json",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\appsettings.json",
+              "RelativeToolTip": "GakkoAppVertical\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T18:38:10.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AnimalsService.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\AnimalsService.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Animals\\AnimalsService.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\AnimalsService.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Animals\\AnimalsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:11:08.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAnimalsService.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\IAnimalsService.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Animals\\IAnimalsService.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\IAnimalsService.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Animals\\IAnimalsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:45:22.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAnimalsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\IAnimalsRepository.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Animals\\IAnimalsRepository.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\IAnimalsRepository.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Animals\\IAnimalsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:05:19.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Program.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Program.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Program.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:43:32.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IStudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\IStudentsRepository.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Students\\IStudentsRepository.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\IStudentsRepository.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Students\\IStudentsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:44:59.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Animals\\Animal.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Animals\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:45:53.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\StudentsService.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Students\\StudentsService.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\StudentsService.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Students\\StudentsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:41:30.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\Student.cs",
+              "RelativeDocumentMoniker": "GakkoAppVertical\\Students\\Student.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\apbd5\\GakkoApp\\GakkoAppVertical\\Students\\Student.cs",
+              "RelativeToolTip": "GakkoAppVertical\\Students\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:45:43.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
